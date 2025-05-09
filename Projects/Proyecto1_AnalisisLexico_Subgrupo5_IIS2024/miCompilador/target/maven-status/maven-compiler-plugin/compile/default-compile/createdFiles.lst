@@ -1,0 +1,6 @@
+com\miCompilador\Archivo.class
+com\miCompilador\App.class
+com\miCompilador\faseLexica.class
+com\miCompilador\InformacionSimbolo.class
+com\miCompilador\TablaSimbolos.class
+com\miCompilador\Token.class

@@ -1,0 +1,6 @@
+H0LA = 45-34;
+CALCULO = [(5-6)*4]/5:
+EL3VADO = 2^2;
+B = 14;
+A = 13;
+FORMULA = 2B-2A;
